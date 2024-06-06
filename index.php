@@ -2,7 +2,5 @@
 <a href="about.php">About</a>
 <hr>
 <?php
-
-echo "Hello ABC company";
-
+echo "Hello ABC Company";
 ?>
